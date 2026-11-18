@@ -1,0 +1,5 @@
+# Opcjonalne - tylko do pobierania nowych danych i skryptow ETL
+-r requirements.txt
+itscalledsoccer
+polars
+SQLAlchemy

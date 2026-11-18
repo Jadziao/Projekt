@@ -1,0 +1,369 @@
+{
+  "albania": [
+    [
+      "Albanian Superliga",
+      "2024-25",
+      "al1"
+    ]
+  ],
+  "andorra": [
+    [
+      "Primera Divisio",
+      "2024-25",
+      "ad1"
+    ]
+  ],
+  "armenia": [
+    [
+      "Armenian Premier League",
+      "2024-25",
+      "am1"
+    ]
+  ],
+  "azerbaijan": [
+    [
+      "Azerbaijan Premier League",
+      "2024-25",
+      "az1"
+    ]
+  ],
+  "belarus": [
+    [
+      "Belarusian Premier League",
+      "2025",
+      "by1"
+    ]
+  ],
+  "bosnia-herzegovina": [
+    [
+      "Premijer Liga BiH",
+      "2024-25",
+      "ba1"
+    ]
+  ],
+  "bulgaria": [
+    [
+      "Bulgarian First League",
+      "2024-25",
+      "bg1"
+    ]
+  ],
+  "croatia": [
+    [
+      "Hrvatska nogometna liga",
+      "2024-25",
+      "hr1"
+    ]
+  ],
+  "cyprus": [
+    [
+      "Cyprus First Division",
+      "2024-25",
+      "cy1"
+    ]
+  ],
+  "czech-republic": [
+    [
+      "Chance Liga / Czech First League",
+      "2024-25",
+      "cz1"
+    ],
+    [
+      "Czech Second League",
+      "2024-25",
+      "cz2"
+    ]
+  ],
+  "denmark": [
+    [
+      "Danish Superliga",
+      "2024-25",
+      "dk1"
+    ],
+    [
+      "Danish 1st Division",
+      "2024-25",
+      "dk2"
+    ]
+  ],
+  "estonia": [
+    [
+      "Estonian Meistriliiga",
+      "2025",
+      "ee1"
+    ]
+  ],
+  "faroe-islands": [
+    [
+      "Faroe Islands Premier League",
+      "2025",
+      "fo1"
+    ]
+  ],
+  "finland": [
+    [
+      "Veikkausliiga",
+      "2025",
+      "fi1"
+    ]
+  ],
+  "france": [
+    [
+      "Ligue 1",
+      "2024-25",
+      "fr1"
+    ],
+    [
+      "Ligue 2",
+      "2024-25",
+      "fr2"
+    ]
+  ],
+  "georgia": [
+    [
+      "Georgian Erovnuli Liga",
+      "2025",
+      "ge1"
+    ]
+  ],
+  "gibraltar": [
+    [
+      "Gibraltar Football League",
+      "2024-25",
+      "gi1"
+    ]
+  ],
+  "greece": [
+    [
+      "Greek Super League",
+      "2024-25",
+      "gr1"
+    ]
+  ],
+  "hungary": [
+    [
+      "Nemzeti Bajnoksag I",
+      "2024-25",
+      "hu1"
+    ]
+  ],
+  "iceland": [
+    [
+      "Besta deild karla",
+      "2025",
+      "is1"
+    ]
+  ],
+  "ireland": [
+    [
+      "League of Ireland Premier Division",
+      "2025",
+      "ie1"
+    ]
+  ],
+  "kosovo": [
+    [
+      "Football Superleague of Kosovo",
+      "2024-25",
+      "kos1"
+    ]
+  ],
+  "latvia": [
+    [
+      "Latvian Virsliga",
+      "2025",
+      "lv1"
+    ]
+  ],
+  "lithuania": [
+    [
+      "A Lyga",
+      "2025",
+      "lt1"
+    ]
+  ],
+  "luxembourg": [
+    [
+      "Luxembourg National Division",
+      "2024-25",
+      "lu1"
+    ]
+  ],
+  "malta": [
+    [
+      "Maltese Premier League",
+      "2024-25",
+      "mt1"
+    ]
+  ],
+  "moldova": [
+    [
+      "Moldovan Super Liga",
+      "2024-25",
+      "md1"
+    ]
+  ],
+  "montenegro": [
+    [
+      "Montenegrin First League",
+      "2024-25",
+      "me1"
+    ]
+  ],
+  "netherlands": [
+    [
+      "Eredivisie",
+      "2024-25",
+      "nl1"
+    ],
+    [
+      "Eerste Divisie",
+      "2024-25",
+      "nl2"
+    ]
+  ],
+  "north-macedonia": [
+    [
+      "Macedonian First League",
+      "2024-25",
+      "mk1"
+    ]
+  ],
+  "northern-ireland": [
+    [
+      "NIFL Premiership",
+      "2024-25",
+      "nir1"
+    ]
+  ],
+  "norway": [
+    [
+      "Eliteserien",
+      "2025",
+      "no1"
+    ],
+    [
+      "Norwegian First Division",
+      "2025",
+      "no2"
+    ]
+  ],
+  "poland": [
+    [
+      "Ekstraklasa",
+      "2024-25",
+      "pl1"
+    ],
+    [
+      "I liga polska",
+      "2024-25",
+      "pl2"
+    ]
+  ],
+  "portugal": [
+    [
+      "Primeira Liga",
+      "2024-25",
+      "pt1"
+    ],
+    [
+      "Liga Portugal 2",
+      "2024-25",
+      "pt2"
+    ]
+  ],
+  "romania": [
+    [
+      "Romanian Liga I",
+      "2024-25",
+      "ro1"
+    ]
+  ],
+  "russia": [
+    [
+      "Russian Premier League",
+      "2024-25",
+      "ru1"
+    ]
+  ],
+  "san-marino": [
+    [
+      "Campionato Sammarinese",
+      "2024-25",
+      "sm1"
+    ]
+  ],
+  "scotland": [
+    [
+      "Scottish Premiership",
+      "2024-25",
+      "sco1"
+    ]
+  ],
+  "serbia": [
+    [
+      "Serbian SuperLiga",
+      "2024-25",
+      "rs1"
+    ]
+  ],
+  "slovakia": [
+    [
+      "Slovak Niké Liga",
+      "2024-25",
+      "sk1"
+    ]
+  ],
+  "slovenia": [
+    [
+      "Slovenian PrvaLiga",
+      "2024-25",
+      "si1"
+    ]
+  ],
+  "sweden": [
+    [
+      "Allsvenskan",
+      "2025",
+      "se1"
+    ],
+    [
+      "Superettan",
+      "2025",
+      "se2"
+    ]
+  ],
+  "switzerland": [
+    [
+      "Swiss Super League",
+      "2024-25",
+      "ch1"
+    ],
+    [
+      "Swiss Challenge League",
+      "2024-25",
+      "ch2"
+    ]
+  ],
+  "turkey": [
+    [
+      "Turkish Süper Lig",
+      "2024-25",
+      "tr1"
+    ]
+  ],
+  "ukraine": [
+    [
+      "Ukrainian Premier League",
+      "2024-25",
+      "ua1"
+    ]
+  ],
+  "wales": [
+    [
+      "Cymru Premier",
+      "2024-25",
+      "wal1"
+    ]
+  ]
+}
